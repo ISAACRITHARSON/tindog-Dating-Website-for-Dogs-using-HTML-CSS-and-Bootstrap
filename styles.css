@@ -1,6 +1,9 @@
 /*{
   border: 1px solid black;
 }*/
+body {
+  zoom: 120%;
+}
 .sec {
   background-color: #ff4c68;
 }
