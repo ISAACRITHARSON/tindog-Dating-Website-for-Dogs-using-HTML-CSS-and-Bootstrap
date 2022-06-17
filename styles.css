@@ -129,14 +129,14 @@ h2{
   padding: 50px 100px;
   text-align: center;
 }
-@media (max-width:1224px) {
+@media (max-width:992px) {
   .sec{
     text-align: center !important;
   }
   .title-image{
     position: static;
     transform: rotate(0);
-    margin-left: 60%;
+    margin-left: 50%;
   }
 }
 .cta{
